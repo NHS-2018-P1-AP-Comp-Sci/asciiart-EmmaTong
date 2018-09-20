@@ -15,20 +15,7 @@
  */
 
 // YOUR CODE GOES HERE :)
-/*
- * 		   	_         _
- *         (c)  .-.  (c)	
- *          /   ._.   \
- *        __\ (  Y  ) /__
- *       (__.- /'-'\ -.__)
- *          | |  X  | |
- *        _.'  ` - '  '._
- *       (.-./ ` - ' \.-.)
- *        `-'         `-'
- *        
- *  <  I am the teddy bear. >
- * 
- */
+
 public class ASCIIArt {
 	public static void main(String[] args) {
 		Head();
